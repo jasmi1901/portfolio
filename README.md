@@ -6,7 +6,7 @@ This portfolio showcases my skills, projects, experience, and background as a Fr
 
 ## 🌐 Live Website
 
-[View my portfolio](YOUR-VERCEL-URL)
+[View my portfolio](https://jasmi1901.github.io/portfolio/)
 
 ## 🛠️ Technologies
 
